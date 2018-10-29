@@ -1,2 +1,2 @@
 # Education
-A deep understanding of the Education system
+A deep understanding of the Education system.
